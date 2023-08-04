@@ -1,3 +1,20 @@
+# Developer Tools
+
+winget install -e --id Microsoft.WindowsTerminal
+winget install -e --id Microsoft.PowerShell
+winget install -e --id Git.Git
+
+# Languages
+
+winget install -e --id Python.Python.3.12
+winget install -e --id OpenJS.NodeJS
+
+# Build Systems
+
+winget install -e --id Kitware.CMake
+winget install -e --id Microsoft.DotNet.SDK.7
+winget install -e --id Microsoft.NuGet
+
 # IDEs/Editors
 
 winget install -e --id Microsoft.VisualStudioCode
