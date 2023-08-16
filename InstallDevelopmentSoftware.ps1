@@ -21,4 +21,6 @@ winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id Microsoft.VisualStudio.2022.BuildTools
 winget install -e --id Microsoft.VisualStudio.2022.Community
 winget install -e --id JetBrains.IntelliJIDEA.Community
+winget install -e --id JetBrains.CLion
 winget install -e --id Notepad++.Notepad++
+winget install -e --id Neovim.Neovim
